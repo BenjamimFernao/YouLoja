@@ -19,7 +19,7 @@ export default function App(){
           <link href = "https://fonts.googleapis.com/css2? family = Tajawal: wght @ 200 & display = swap" rel = "stylesheet"></link>
       
       </Head>
-      <h1>Bem vindo ao sistema!</h1>
+      <h1>Bem vindo!</h1>
       <Image src="/vercel.svg" width={144} height={200} alt="Imagem da vercel" />
       
       <Link href="/sobreNos">
