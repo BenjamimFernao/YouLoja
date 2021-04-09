@@ -1,0 +1,9 @@
+Cor principal : 196FE1, #070894, #EDD33E --
+
+Cor letras : #000000, #9DF5EF, #ffffff
+
+
+Tipografia :
+
+<link href = "https://fonts.googleapis.com/css2? family = Source + Sans + Pro: ital, wght @ 1.200 & display = swap "rel =" stylesheet ">
+<link href = "https://fonts.googleapis.com/css2? family = Tajawal: wght @ 200 & display = swap" rel = "stylesheet">
