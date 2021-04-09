@@ -1,2 +1,2 @@
 # YouLja
-Uma Loja virtual para venda de variados produtos
+Uma Loja virtual para venda de uma variedade de produtos!
